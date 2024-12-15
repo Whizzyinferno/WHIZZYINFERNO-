@@ -8,7 +8,7 @@
 
 
   <a href="https://i.imgur.com/b4YoJwZ.jpeg><img src="https://telegra.ph/file/967c663a5978c545f78d6.jpg" alt="01" border="0" /></a>                     
-<a><img src=https://i.imgur.com/b4YoJwZ.jpeg '/></a>
+<a><img src='https://i.imgur.com/b4YoJwZ.jpeg '/></a>
  
 
 <details>
@@ -26,13 +26,13 @@
 
   
 
-<a href="https://github.com/Whizzyinferno/Aheroku/JULIET-MD/fork"><img src="https://mhttps://i.imgur.com/b4YoJwZ.jpeg/CLICK%20HERE-purple" alt="FORK JULIET-MD" width="150"></a>
+<a href="https://github.com/Whizzyinferno/Aheroku/JULIET-MD/fork"><img src="https://mhttps://i.imgur.com/b4YoJwZ.jpeg/CLICK%20HERE-black" alt="FORK JULIET-MD" width="120"></a>
 
 
 <a><img src='https://i.imgur.com/b4YoJwZ.jpeg'/></a>
 <a><img src='https://i.imgur.com/b4YoJwZ.jpeg/></a>
  <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
-  <a href="https://Juliet-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+  <a href="https://Juliet-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="370"></a>
 
 
 
@@ -50,9 +50,9 @@
 **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
 <details>
 <summary>CLICK FOR MORE</summary>
-<a href="https://github.com/Whizzyinferno/JULIET-MD1 /archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/Whizzyinferno/JULIET-MD1 /archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-blue" alt="Rainhost Files" width="120"></a>
   
-<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://i.imgur.com/b4YoJwZ.jpeg/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width ="120"></a>
 </details
 
 <a><img src= https://i.imgur.com/b4YoJwZ.jpeg/></a>
@@ -68,7 +68,7 @@
 
 **𝗚𝗿𝗼𝘂𝗽**
 - <a href="https://https://chat.whatsapp.com/D9TwduUQNfX4QKnJFRUmLJ" target="_blank">
-    <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="CLICK HERE" src="https://https://i.imgur.com/b4YoJwZ.jpeg/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=pink" />
   </a>
 
 
@@ -82,7 +82,7 @@
    <a><img src='https://i.imgur.com/b4YoJwZ.jpeg'/></a>
 
 ### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
-[![Stargazers repo roster for @Keithkeizzah/ALPHA-MD1](http://reporoster.com/stars/dark/Whizzyinferno/JULIET-MD)](https://github.com/whizzyinferno/JULIET-MD/stargazers)
+[![Stargazers repo roster for @whizzyinferno/JULIET-MD](http://reporoster.com/stars/dark/Whizzyinferno/JULIET-MD)](https://github.com/whizzyinferno/JULIET-MD/stargazers)
      
 [![Forkers repo roster for @whizzyinferno/JULIET-MD](http://reporoster.com/forks/dark/Whizzyinferno/JULIET-MD)](https://github.com/Whizzyinferno/JULIET-MD/network/members)
 
