@@ -32,7 +32,7 @@
 <a><img src='https://i.imgur.com/b4YoJwZ.jpeg'/></a>
 <a><img src='https://i.imgur.com/b4YoJwZ.jpeg/></a>
  <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
-  <a href="https://https://keith-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="370"></a>
+  <a href="https://https://whizzy-sessions-pi5z.horeku.com"><img src="https://https://i.imgur.com/b4YoJwZ.jpeg/badge/Pair%20session%20code-green" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="390"></a>
 
 
 
