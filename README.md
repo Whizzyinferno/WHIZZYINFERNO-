@@ -1,4 +1,4 @@
-<a><img https://i.imgur.com/b4YoJwZ.jpeg/></a>
+<a><img https://i.imgur.com/b4YoJwZ.jpeg
 <h1 align="center"> JULIET-MD </h1>
 
  
